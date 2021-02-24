@@ -1,4 +1,4 @@
-# banking-project-part-1-Danigotlocs42
+# banking-project-part-1
 banking-project-part-1-Danigotlocs42 created by GitHub Classroom
 
 
